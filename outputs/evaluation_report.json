@@ -1,0 +1,14 @@
+{
+  "shipment_rows": 2940,
+  "routes": 7,
+  "weekly_route_rows": 728,
+  "flagged_unexplained": 24,
+  "anomalies_justified": 3,
+  "not_flagged": 701,
+  "threshold_pct": 15.0,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "estimated_llm_cost_usd": 0.0,
+  "cost_note": "No LLM is called; deterministic rules and exact route/date evidence checks keep this run reproducible."
+}

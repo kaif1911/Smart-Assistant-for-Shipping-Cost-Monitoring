@@ -1,0 +1,9 @@
+Reproducibility verification
+Command: python verify_reproducibility.py
+Result: PASS — three independent runs produced byte-identical CSV outputs.
+SHA-256: 1bbbbd16ced8e1e1f95eb26e00203e672a8d17c91b6891a13dc20f40cb990901
+
+Unit tests
+Command: python -m unittest discover -s tests -v
+Result: PASS — 5 tests passed.
+Covered: Monday week boundaries, weighted weekly ratio, trailing eight-week history without look-ahead, negative/neutral note rejection, and route/date evidence scope.

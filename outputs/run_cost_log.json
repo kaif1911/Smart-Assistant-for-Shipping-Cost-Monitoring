@@ -1,0 +1,12 @@
+{
+  "run_scope": "full shipment_records.csv",
+  "shipment_rows": 2940,
+  "weekly_route_rows": 728,
+  "model": null,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "published_rate_used": null,
+  "estimated_llm_cost_usd": 0.0,
+  "reason": "No LLM/API model was called. All calculations and evidence gating are local and deterministic."
+}
