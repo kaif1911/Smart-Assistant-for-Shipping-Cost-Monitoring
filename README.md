@@ -1,5 +1,7 @@
 # FreightTiger Shipping Cost Assistant
 
+AI-assisted shipping cost anomaly detection with evidence-based explanations
+
 ## What it does
 This project calculates weekly route cost per tonne-km, compares each route with its own trailing history and same-week routes of the same `route_type`, then flags unusual increases. Context notes are only allowed to justify a flag when both route scope and date scope match and the note explicitly describes an increase.
 
